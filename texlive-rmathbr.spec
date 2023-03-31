@@ -1,6 +1,6 @@
 Name:		texlive-rmathbr
 Version:	57173
-Release:	1
+Release:	2
 Summary:	Repeating of math operator at the broken line and the new line in inline equations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rmathbr
